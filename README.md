@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
