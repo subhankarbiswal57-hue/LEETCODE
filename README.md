@@ -23,14 +23,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
