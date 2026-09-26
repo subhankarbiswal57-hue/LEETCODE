@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
