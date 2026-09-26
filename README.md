@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
