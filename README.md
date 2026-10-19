@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0867-transpose-matrix) |
@@ -132,8 +133,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
