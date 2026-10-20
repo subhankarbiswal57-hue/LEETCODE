@@ -1,25 +1,23 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        int i,j;
-        int index=0;
-        int cnt;
-        vector<int>temp;
+        int i,j,index;
         int n=nums.size();
-        for (i=0;i<n;i++){
+        int cnt=0;
+        vector<int>nge;
+        for(i=0;i<n;i++){
             cnt=0;
-            for (j=0;j<n;j++){
-            index=(i+j)%n;   
+            for(j=i+1;j<i+n;j++){
+                index=j%n;
                 if(nums[index]>nums[i]){
-                    temp.push_back(nums[index]);
+                    nge.push_back(nums[index]);
                     cnt++;
                     break;
-                }
+                }           
             }
-            if(cnt==0){
-                temp.push_back(-1);
-            }
+            if(cnt==0)
+            nge.push_back(-1);
         }
-        return temp;
+        return nge;
     }
 };
