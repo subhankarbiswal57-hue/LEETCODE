@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2104-sum-of-subarray-ranges](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,9 +138,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
