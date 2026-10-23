@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -147,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
