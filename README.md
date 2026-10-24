@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
