@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0507-perfect-number) |
 | [2739-total-distance-traveled](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2739-total-distance-traveled) |
 ## Recursion
 |  |
