@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0507-perfect-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2739-total-distance-traveled](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2739-total-distance-traveled) |
 ## Recursion
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Sorting
 |  |
 | ------- |
