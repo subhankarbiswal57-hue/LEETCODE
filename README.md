@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0507-perfect-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0867-transpose-matrix) |
 | [2739-total-distance-traveled](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2739-total-distance-traveled) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0101-symmetric-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
