@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+| [2747-count-zero-request-servers](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2747-count-zero-request-servers](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2747-count-zero-request-servers](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/subhankarbiswal57-hue/LEETCODE/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
