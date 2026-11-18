@@ -1,24 +1,20 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long N = n;
-
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
+        long long p=n;
+        long double b=x;
+        while(p<0){
+            b=1/b;
+            p=-p;
         }
-
-        double result = 1;
-
-        while (N > 0) {
-            if (N % 2 == 1) {   // If exponent is odd
-                result *= x;
+        double ans =1;
+        while(p>0){
+            if(p%2==1){
+                ans=ans*b;
             }
-
-            x *= x;             // Square the base
-            N /= 2;             // Halve the exponent
+            b*=b;
+            p=p/2;
         }
-
-        return result;
+        return ans;
     }
 };
